@@ -1,0 +1,2 @@
+# kesp32-pn532
+ESP32-S2 / ESP32-S3 PN532 relay on ESP-NOW
